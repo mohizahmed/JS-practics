@@ -36,7 +36,7 @@ closure, scope
 // the limit. if none were speeding return {0, 0} arr { 50 , 110, 90,90 45, 20 } limit = 40 answer = { 50, 90,45,110}
 
 
-Q: how second counter print 2. 
+
 ............................................................
 
 date:  01 Oct 2025
@@ -56,4 +56,29 @@ Problem:
    return true/false;
         
    }
+......................................................................
+
+date: 2 Oct 2025
+object literal, destructing,
+array methods:
+      map: transform value. provide three things: current element value, index and complete array. 
+          yeh operation krny ky bahd return krta hai.
+
+      filter:  keep values checking the conditions,
+      find:    first element matching condition.
+      some:    check if any one element matches. return true or false 
+      every:   check all elements matches.  return true or false
+   
+
+
+
+
+
+
+
+
+
+
+Questions: 
+1. how second counter print 2 in closure topic. 
 */
